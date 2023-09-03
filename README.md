@@ -5,8 +5,47 @@
 </p>
 
 <p align="center">
-  A little more about me...
-</p>
+  A little more about me... i like joke :V 
+</p> 
+### 😄 Programming Joke #1 😄
+
+Why do programmers always mix up Christmas and Halloween?
+
+Because Oct 31 == Dec 25.
+
+---
+
+### 🤖 Programming Joke #2 🤖
+
+Why don't programmers like nature?
+
+It has too many bugs.
+
+---
+
+### 🤓 Programming Joke #3 🤓
+
+Why do Java developers wear glasses?
+
+Because they don't see sharp.
+
+---
+
+### 💸 Programming Joke #4 💸
+
+Why did the programmer go broke?
+
+Because he used up all his cache.
+
+---
+
+### 🛠️ Programming Joke #5 🛠️
+
+How many programmers does it take to change a light bulb?
+
+None. It's a hardware problem.
+
+
 
 ```java
 public class Devaliel {
@@ -61,3 +100,34 @@ public class Devaliel {
 <div align="center">
   <img src="https://github.com/devaliel/devaliel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
+
+
+## Anime Quotes
+
+### 🌟 Inspirational Anime Quotes 🌟
+
+1. "Believe it!" - Naruto Uzumaki, Naruto
+2. "I am here!" - All Might, My Hero Academia
+3. "Just because you're correct doesn't mean you're right." - Shirou Emiya, Fate/stay night
+4. "I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean... Yohohoho!... is the Pirate King!" - Brook, One Piece
+5. "The world is not beautiful; and that, in a way, lends it a sort of beauty." - Kino, Kino's Journey
+
+### Movie Quotes
+
+### 🎬 Iconic Movie Quotes 🎬
+
+1. "Here's looking at you, kid." - Rick Blaine, Casablanca (1942)
+2. "May the Force be with you." - Multiple Characters, Star Wars Franchise
+3. "You can't handle the truth!" - Colonel Jessup, A Few Good Men (1992)
+4. "Life is like a box of chocolates. You never know what you're gonna get." - Forrest Gump, Forrest Gump (1994)
+5. "There's no place like home." - Dorothy, The Wizard of Oz (1939)
+
+### Game Quotes
+
+### 🎮 Memorable Game Quotes 🎮
+
+1. "It's dangerous to go alone! Take this." - Old Man, The Legend of Zelda
+2. "Would you kindly?" - Atlas, BioShock
+3. "The right man in the wrong place can make all the difference in the world." - G-Man, Half-Life 2
+4. "War. War never changes." - Narrator, Fallout series
+5. "Your pain is an illusion. It comes from your thoughts about the past." - Papyrus, Undertale
