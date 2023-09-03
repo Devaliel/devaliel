@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 </div>
  
 
- ![snake gif](https://github.com/Devaliel/Devaliel/blob/output/github-contribution-grid-snake.gif)
+ ![Snake animation](https://github.com/Devaliel/Devaliel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
