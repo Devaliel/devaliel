@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 </br>
-```javascipt
+
+```javascript
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  A little more about me...
 const Devaliel = {
     pronouns: "He" | "Him",
@@ -38,6 +39,8 @@ const Devaliel = {
     funFact: "There is no sorry after regrets, think then act!"
 };
 ```
+
+
  <div>
   <a href="https://github.com/Devaliel">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaliel&layout=compact&langs_count=16&theme=dracula"/>
