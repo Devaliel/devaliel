@@ -7,19 +7,8 @@
 <p align="center">
   A little more about me... i like joke :V 
 </p> 
-### 😄 Programming Joke #1 😄
 
-Why do programmers always mix up Christmas and Halloween?
 
-Because Oct 31 == Dec 25.
-
----
-
-### 🤖 Programming Joke #2 🤖
-
-Why don't programmers like nature?
-
-It has too many bugs.
 
 ---
 
@@ -31,19 +20,7 @@ Because they don't see sharp.
 
 ---
 
-### 💸 Programming Joke #4 💸
 
-Why did the programmer go broke?
-
-Because he used up all his cache.
-
----
-
-### 🛠️ Programming Joke #5 🛠️
-
-How many programmers does it take to change a light bulb?
-
-None. It's a hardware problem.
 
 
 
