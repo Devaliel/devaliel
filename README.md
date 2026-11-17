@@ -50,32 +50,5 @@ public class Devaliel {
 }
 ```
 
-<div>
-  <a href="https://github.com/Devaliel">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaliel&layout=compact&langs_count=16&theme=dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devaliel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
-
-
-## 🔧 Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8">
-  <img src="https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=6aa6f8">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8">
-  <img src="https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8">
-  <img src="https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8">
-  <img src="https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8">
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8">
-  <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8">
-  <img src="https://img.shields.io/badge/Tools-MikroTik-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8">
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8">
-  <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8">
-  <img src="https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=6aa6f8">
-</p>
-
-<div align="center">
-  <img src="https://github.com/devaliel/devaliel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
 
 
