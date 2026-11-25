@@ -1,54 +1,56 @@
-## Hi there! 👋
+## Delivery pipeline
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <img src="https://www.gitskins.com/api/section/hero?username=devaliel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128152026%3Fu%3D70ef03cbe9c604454e1388186bc2b46f1ec106cc%26v%3D4" alt="devaliel hero visual" />
 </p>
 
+**Dark Zill** · Frontend or full-stack engineer
+
+## Operating principles
+
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = remote
+PUBLIC_REPOS = 8
+COMMUNITY   = 3 followers</code></pre>
+
+Building useful things and learning in public.
+
+## Uptime in motion
+
 <p align="center">
-  A little more about me... i like joke :V 
-</p> 
+  <img src="https://www.gitskins.com/api/section/heatmap?username=devaliel&theme=github-dark" alt="devaliel contribution activity" />
+</p>
 
+## Service signals
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=devaliel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128152026%3Fu%3D70ef03cbe9c604454e1388186bc2b46f1ec106cc%26v%3D4" alt="devaliel stats visual" />
+</p>
 
----
+<p><code>1,220 contributions</code> · <code>12 day streak</code></p>
 
-### 🤓 Programming Joke #3 🤓
+## Infrastructure shipped
 
-Why do Java developers wear glasses?
+- **[AplikasiAbsensiRSUDSAMRAT](https://github.com/Devaliel/AplikasiAbsensiRSUDSAMRAT)** — Aplikasi Absensi RSUD SAMRAT · ⭐ 0
+- **[bcp_generator](https://github.com/Devaliel/bcp_generator)** — Featured public work · ⭐ 0
+- **[SistemInformasiPengadaanRsudSamrat](https://github.com/Devaliel/SistemInformasiPengadaanRsudSamrat)** — SISTEM INFORMASI PENGADAAN BARANG DAN JASA RSUD DR SAM RATULANGI TONDANO · ⭐ 0
+- **[BeckEndPendaftaranTesting](https://github.com/RSUD-Dr-Sam-Ratulangi/BeckEndPendaftaranTesting)** — Beck End Aplikasi Pendaftaran  · ⭐ 1
+- **[SistemInformasiPengadaanRsudSamrat](https://github.com/RSUD-Dr-Sam-Ratulangi/SistemInformasiPengadaanRsudSamrat)** — SISTEM INFORMASI PENGADAAN BARANG DAN JASA RSUD DR SAM RATULANGI TONDANO · ⭐ 1
 
-Because they don't see sharp.
+## Platform toolkit
 
----
+<p><code>devaliel@github:~$ toolbox --list</code></p>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=devaliel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128152026%3Fu%3D70ef03cbe9c604454e1388186bc2b46f1ec106cc%26v%3D4" alt="devaliel stack visual" />
+</p>
 
+## Keep it moving
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=devaliel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128152026%3Fu%3D70ef03cbe9c604454e1388186bc2b46f1ec106cc%26v%3D4" alt="devaliel social visual" />
+</p>
 
+<a href="https://github.com/devaliel">GitHub</a>
 
-```java
-public class Devaliel {
-    private String pronouns = "He | Him";
-    private String[] code = {"Java", "JavaScript", "Python"};
-    private String[] askMeAbout = {"Back-end Development", "Tech", "CI/CD", "Networking"};
-    
-    private class Technologies {
-        private class BackEnd {
-            private String[] js = {"Spring Boot", "FastAPI", "Express"};
-        }
-        
-        private class MobileApp {
-            private String[] nativeApps = {"Android Development"};
-        }
-        
-        private String[] devOps = {"AWS", "Docker🐳", "Jenkins", "Apache2"};
-        private String[] databases = {"MongoDB", "MySQL", "Redis", "Cassandra"};
-        private String[] misc = {"Spring Security", "Socket.IO", "Networking", "MTCNA"};
-    }
-    
-    private String[] architecture = {"Monolith", "Microservices", "Single Page Applications", "Multi-platform Applications", "Serverless Applications"};
-    private String currentFocus = "One Piece";
-    private String funFact = "There is no sorry after regrets, think then act!";
-}
-```
-
-
-
+<p align="center"><sub>Dark Zill · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
